@@ -22,7 +22,7 @@
 	git remote add origin https://github.com/nomUserGit/votreNomDepotGit.git
 	```
 
-*=> avec un outil graphqiue* -> sourceTree pour l'ES 
+*=> avec un outil graphqiue* -> sourceTree pour l'ES - GitDescktop - TortoiseGit - etc. 
 	
 
 *V_B* => vous utiliser un **dépôt existant** (serveur) 
@@ -30,7 +30,7 @@
 
 | **ligne de Commande**  | **SourceTree**  |
 |:---:|:---:| 
-| ![cmd Git](/docGit/cmdGitBasic.png) | ![info SourceTree]() | 
+| ![cmd Git](/docGit/cmdGitBasic.PNG) | ![info SourceTree]() | 
   
 	
 
@@ -52,7 +52,7 @@
 | Exercice \ Initial Etudiant | **[JAR](https://github.com/JeremyETMLES)** | **[DBS](https://github.com/damienbignens)** | **[ADC](https://github.com/antoniodocarmoafonso)** | **[CFO](https://github.com/CyrilFeliciano)** | **[DFA](https://github.com/Diogo-FerreiraETML)** | **[LGA](https://github.com/LuisGarciaAre)** | **[MPT](https://github.com/Melissaperret)** | **[SPN](https://github.com/Toxik24)** | 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | UML | | | | | | | | | 
-| Ex1 | NOK | NOK | NOK | NOK | NOK | NOK | Done / Uncontrolled | NOK |
+| Ex1 | NOK | NOK | NOK | NOK | NOK | NOK | Done / Uncontrolled | Done / Uncontrolled |
 | C++ | | | | | | | |
 | Ex1 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex2 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
@@ -88,6 +88,13 @@
 | Ex10 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 
 ## Exercice 1
+### Suivi Projet 
+=> codage "individuel" 
+
+=> etat d'avancement => voir [#2](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/2)
+
+## Exercice 2
+
 
 
 
