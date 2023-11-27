@@ -1,0 +1,16 @@
+C:\PERSO\ETML\GITHUB\POBJ_SLO2_23_24\DemoCSharp\DemoCSharp_Console\bin\Debug\net5.0\DemoCSharp_Console.exe
+C:\PERSO\ETML\GITHUB\POBJ_SLO2_23_24\DemoCSharp\DemoCSharp_Console\bin\Debug\net5.0\DemoCSharp_Console.deps.json
+C:\PERSO\ETML\GITHUB\POBJ_SLO2_23_24\DemoCSharp\DemoCSharp_Console\bin\Debug\net5.0\DemoCSharp_Console.runtimeconfig.json
+C:\PERSO\ETML\GITHUB\POBJ_SLO2_23_24\DemoCSharp\DemoCSharp_Console\bin\Debug\net5.0\DemoCSharp_Console.runtimeconfig.dev.json
+C:\PERSO\ETML\GITHUB\POBJ_SLO2_23_24\DemoCSharp\DemoCSharp_Console\bin\Debug\net5.0\DemoCSharp_Console.dll
+C:\PERSO\ETML\GITHUB\POBJ_SLO2_23_24\DemoCSharp\DemoCSharp_Console\bin\Debug\net5.0\ref\DemoCSharp_Console.dll
+C:\PERSO\ETML\GITHUB\POBJ_SLO2_23_24\DemoCSharp\DemoCSharp_Console\bin\Debug\net5.0\DemoCSharp_Console.pdb
+C:\PERSO\ETML\GITHUB\POBJ_SLO2_23_24\DemoCSharp\DemoCSharp_Console\obj\Debug\net5.0\DemoCSharp_Console.csproj.AssemblyReference.cache
+C:\PERSO\ETML\GITHUB\POBJ_SLO2_23_24\DemoCSharp\DemoCSharp_Console\obj\Debug\net5.0\DemoCSharp_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\PERSO\ETML\GITHUB\POBJ_SLO2_23_24\DemoCSharp\DemoCSharp_Console\obj\Debug\net5.0\DemoCSharp_Console.AssemblyInfoInputs.cache
+C:\PERSO\ETML\GITHUB\POBJ_SLO2_23_24\DemoCSharp\DemoCSharp_Console\obj\Debug\net5.0\DemoCSharp_Console.AssemblyInfo.cs
+C:\PERSO\ETML\GITHUB\POBJ_SLO2_23_24\DemoCSharp\DemoCSharp_Console\obj\Debug\net5.0\DemoCSharp_Console.csproj.CoreCompileInputs.cache
+C:\PERSO\ETML\GITHUB\POBJ_SLO2_23_24\DemoCSharp\DemoCSharp_Console\obj\Debug\net5.0\DemoCSharp_Console.dll
+C:\PERSO\ETML\GITHUB\POBJ_SLO2_23_24\DemoCSharp\DemoCSharp_Console\obj\Debug\net5.0\ref\DemoCSharp_Console.dll
+C:\PERSO\ETML\GITHUB\POBJ_SLO2_23_24\DemoCSharp\DemoCSharp_Console\obj\Debug\net5.0\DemoCSharp_Console.pdb
+C:\PERSO\ETML\GITHUB\POBJ_SLO2_23_24\DemoCSharp\DemoCSharp_Console\obj\Debug\net5.0\DemoCSharp_Console.genruntimeconfig.cache
