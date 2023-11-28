@@ -1,6 +1,6 @@
 // Caneva Ex1 SL228_POBJ language C++ 
-// Visual Studio 2015
-// 11.11.2016 C. Huber
+// Visual Studio 2020
+// 28.11.2023 Mélissa Perret 
 
 #include <cstdio>
 #include <iostream>
@@ -65,7 +65,7 @@ int main (void)
 					for (i=0; i < ValB; i++) { 
 						ValB1 = 100 + (10 * i);
 						ValB2 = ValB1 / 10000.0;
-						std::cout << "TestB: i= " << i << " ValB1= " << std::fixed << std::setprecision(5) << ValB1 << " ValB2= " << ValB2 << std::endl; //setprecision(5) permet d'afficher 5 chiffres apr�s la virgule 
+						std::cout << "TestB: i= " << i << " ValB1= " << std::fixed << std::setprecision(5) << ValB1 << " ValB2= " << ValB2 << std::endl; //setprecision(5) permet d'afficher 5 chiffres après la virgule 
 					}
 				}
 				else
