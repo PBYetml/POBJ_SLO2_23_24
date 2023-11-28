@@ -54,9 +54,10 @@
 | UML | | | | | | | | | 
 | Ex1 | NOK | NOK | NOK | NOK | NOK | NOK | Done / Uncontrolled | Done / Uncontrolled |
 | C++ | | | | | | | |
-| Ex1 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex2 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex3 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex2 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex3 | NOK | NOK | NOK | NOK | NOK 
+| NOK | NOK | NOK | 
 | Ex4 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex5 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex6 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
@@ -94,8 +95,14 @@
 => etat d'avancement => voir [#2](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/2)
 
 ## Exercice 2
+=> conversion C -> C++ (exercice 1) 
 
+=> réalisation d'un programme en C++ permettant de déterminer la taille de chaque type primitif  
 
+### Suivi Projet 
+=> codage "individuel" 
+
+=> etat d'avancement => voir [#3](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/8)
 
 
 
