@@ -1,4 +1,4 @@
-# Cours de programmation objet année 2023 - 2024 
+# POBJ - Cours de programmation objet année 2023 - 2024 
 ## Infos Pratique - Bonne pratique git
 
 1. Créer un compte sur un serveur GIT => pour l'ES nous utiliserons <span sytle="color: #FF0000">Github</span>
@@ -28,7 +28,9 @@
 	```
 	// exemple sous windows - répertoire de travail  
 	c:\mesDossierGit\monDepot 
-		* => 3 commandes à connaitre 
+	```
+	
+	* => 3 commandes à connaitre 
 	
 	```
 	git add -A 
@@ -63,7 +65,7 @@
 | UML | | | | | | | | | 
 | Ex1 | NOK | NOK | NOK | NOK | NOK | Done / Merged Solus on PBY | Done / Uncontrolled | Done / Uncontrolled |
 | C++ | | | | | | | |
-| Ex1 | Done / Uncontrolled | Done / Uncontrolled | NOK | NOK | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | NOK | 
+| Ex1 | Done / Uncontrolled | Done / Uncontrolled | NOK | NOK | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | 
 | Ex2 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex3 | NOK | NOK | NOK | NOK | NOK 
 | NOK | NOK | NOK | 
@@ -97,22 +99,31 @@
 | Ex9 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex10 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 
-## Exercice 1
+## Exercice 1 => **UML**
 ### Suivi Projet 
-=> codage "individuel" 
+* Exercice 1 - UML (exercice 1 - UML)  
+* codage "individuel" 
+* voir chapitre théorique : UML -> Ch1, Ch2, Ch3
+* etat d'avancement => voir [#2](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/2)
 
-=> etat d'avancement => voir [#2](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/2)
+## Exercice 2 => **C++**
+### Suivi Projet  
+* Exercice 1 - C-> C++ (exercice 1 - C++) 
+* codage "individuel"
+* **Exercice optionnel**: 
 
-## Exercice 2
-=> Conversion C -> C++ (exercice 1 - C++) 
+réalisation d'un programme en C++ permettant de déterminer la taille de chaque type primitif  
+* etat d'avancement => voir [#8](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/8)
 
-=> réalisation d'un programme en C++ permettant de déterminer la taille de chaque type primitif  
+## Exercice 3 => **C#**
+### Suivi Projet  
+* Exercice 1 - C-> C# (exercice 1 - C++) 
+* codage "individuel"
+* **Exercice optionnel**: 
 
-### Suivi Projet 
-=> codage "individuel" 
+réalisation d'un programme en C# (mode console) permettant de déterminer la taille de chaque type primitif  
 
-=> etat d'avancement => voir [#3](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/8)
-
+=> etat d'avancement => voir [#10](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/10)
 
 
 
