@@ -125,6 +125,15 @@ réalisation d'un programme en C# (mode console) permettant de déterminer la ta
 
 => etat d'avancement => voir [#10](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/10)
 
+## Exercice 4 => **JAVA**
+### Suivi Projet  
+* Exercice 1 - C-> Java (exercice 1 - C++) 
+* codage "individuel"
+* **Exercice optionnel**: 
+
+réalisation d'un programme en JAVA (mode console) permettant de déterminer la taille de chaque type primitif  
+
+=> etat d'avancement => voir [#11](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/11)
 
 
 

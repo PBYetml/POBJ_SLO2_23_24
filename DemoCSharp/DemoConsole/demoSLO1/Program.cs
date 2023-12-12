@@ -48,6 +48,14 @@ namespace demoSLO1
 
             valB = true;    // false; 
 
+            //-- afficher un message user --// 
+            Console.WriteLine("Hello SLO2");
+
+            //-- récuperation chaine de caratère 
+            valSs = Console.ReadLine(); 
+
+            valD = Console.Read();
+
 
         }
     }

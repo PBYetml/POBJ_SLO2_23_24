@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace demoSLO1
 {
-    class Class1
+    class voiture
     {
     }
 }
