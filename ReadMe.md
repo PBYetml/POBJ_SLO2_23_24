@@ -63,12 +63,11 @@
 | Exercice \ Initial Etudiant | **[JAR](https://github.com/JeremyETMLES)** | **[DBS](https://github.com/damienbignens)** | **[ADC](https://github.com/antoniodocarmoafonso)** | **[CFO](https://github.com/CyrilFeliciano)** | **[DFA](https://github.com/Diogo-FerreiraETML)** | **[LGA](https://github.com/LuisGarciaAre)** | **[MPT](https://github.com/Melissaperret)** | **[SPN](https://github.com/Toxik24)** | 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | UML | | | | | | | | | 
-| Ex1 | NOK | NOK | NOK | NOK | NOK | Done / Merged Solus on PBY | Done / Uncontrolled | Done / Uncontrolled |
+| Ex1 | Done / Uncontrolled | NOK | NOK | NOK | NOK | Done / Merged Solus on PBY | Done / Uncontrolled | Done / Uncontrolled |
 | C++ | | | | | | | |
-| Ex2 | Done / Uncontrolled | Done / Uncontrolled | NOK | NOK | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | 
-| Ex2 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex3 | NOK | NOK | NOK | NOK | NOK 
-| NOK | NOK | NOK | 
+| Ex2 (1) | Done / Uncontrolled | Done / Uncontrolled | NOK | NOK | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | 
+| Ex5 (2) | NOK | NOK | NOK | NOK | NOK | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | 
+| Ex3 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex4 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex5 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex6 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
@@ -77,7 +76,7 @@
 | Ex9 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex10 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | JAVA | | | | | | | |
-| Ex4 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| Ex4 (1) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | Done / Uncontrolled |
 | Ex2 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex3 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex4 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
@@ -88,7 +87,7 @@
 | Ex9 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex10 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | C# | | | | | | | |
-| Ex3 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex3 (1) | NOK | NOK | NOK | NOK | NOK | NOK | Done / Uncontrolled | Done / Uncontrolled | 
 | Ex2 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex3 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex4 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
