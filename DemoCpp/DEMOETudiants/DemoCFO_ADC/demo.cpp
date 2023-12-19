@@ -14,7 +14,7 @@ void main()
 	short valS = 0; 	// usigned pour une valeur non signé qui va de 0 à 65535 
 						// signé : - 32 768 à 32 767
 						// codé sur 2 octets 
-	int valI = 0, x = 0; 		// codé sur 4 octets -> Attention ne dépend plus de la machine 
+	int valI = 0, x = 0, divS = 2, divD = 10, reste = 0, valeurDiv = 0; 		// codé sur 4 octets -> Attention ne dépend plus de la machine 
 	long valL = 0; 		// codé sur 4/8 ?  octets 
 	
 	double valD = 0.0;	// codé sur 8 octets 
@@ -59,5 +59,29 @@ void main()
 	
 	std::cin >> tbC; 
 	std::cin.getline(tbC, 5); 
+	
+	//-- appel d'une fct --//
+	//-- WARNING -> en ++ plus de notion de passage par pointeur -> adresse) 
+	valeurDiv = FonctionDivisionEntiere(divD, reste, divS); // --> appel de fonction  normal 
+	valeurDiv = FonctionDivisionEntiere(divD, reste); 
 
 }
+
+//-- description... 
+//--> en C:  passage par référence lié au pointeur 
+//-- passage par copie -> avec les types int
+//--> en C++ passage par référence -> lié à la symbolique & WARNING 
+//--> en C++ valeur par défaut : 
+inline int FonctionDivisionEntiere(int dividende, int &ptReste, int diviseur)
+{
+	//-- calcul du reste 
+	ptReste = dividende % diviseur;
+
+	//-- calcul de la valeur divisee 
+	return (dividende / diviseur);
+	
+}
+
+
+
+

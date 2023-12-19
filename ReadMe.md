@@ -65,7 +65,7 @@
 | UML | | | | | | | | | 
 | Ex1 | NOK | NOK | NOK | NOK | NOK | Done / Merged Solus on PBY | Done / Uncontrolled | Done / Uncontrolled |
 | C++ | | | | | | | |
-| Ex1 | Done / Uncontrolled | Done / Uncontrolled | NOK | NOK | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | 
+| Ex2 | Done / Uncontrolled | Done / Uncontrolled | NOK | NOK | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | 
 | Ex2 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex3 | NOK | NOK | NOK | NOK | NOK 
 | NOK | NOK | NOK | 
@@ -77,7 +77,7 @@
 | Ex9 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex10 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | JAVA | | | | | | | |
-| Ex1 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| Ex4 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
 | Ex2 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex3 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex4 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
@@ -88,7 +88,7 @@
 | Ex9 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex10 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | C# | | | | | | | |
-| Ex1 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex3 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex2 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex3 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex4 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
@@ -114,6 +114,12 @@
 
 réalisation d'un programme en C++ permettant de déterminer la taille de chaque type primitif  
 * etat d'avancement => voir [#8](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/8)
+
+## Exercice 5 => **C++**
+### Suivi Projet  
+* Exercice 2 -> C++ (exercice 2 - C++) 
+* codage "individuel"
+* etat d'avancement => voir [#12](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/12)
 
 ## Exercice 3 => **C#**
 ### Suivi Projet  
