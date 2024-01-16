@@ -34,7 +34,7 @@
 	
 	```
 	git add -A 
-	git commit -m "votre commentaire" 
+	git commit -m "votre commentaire" 	
 	git push 
 	```
 * => vous voulez utiliser un dépôt distant (serveur) de quelqu'un 
@@ -67,10 +67,10 @@
 | C++ | | | | | | | |
 | Ex2 (1) | Done / Uncontrolled | Done / Uncontrolled | NOK | NOK | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | 
 | Ex5 (2) | NOK | NOK | NOK | NOK | NOK | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | 
-| Ex3 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex4 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex5 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex6 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex6 (3) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex7 (4) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex8 (5) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex9 (6) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex7 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex8 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex9 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
@@ -119,6 +119,30 @@ réalisation d'un programme en C++ permettant de déterminer la taille de chaque
 * Exercice 2 -> C++ (exercice 2 - C++) 
 * codage "individuel"
 * etat d'avancement => voir [#12](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/12)
+
+## Exercice 6 => **C++**
+### Suivi Projet  
+* Exercice 3 -> C++ (exercice 4 - C++) 
+* codage "individuel"
+* etat d'avancement => voir [#15](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/15)
+
+## Exercice 7 => **C++**
+### Suivi Projet  
+* Exercice 4 -> C++ (exercice 5 - C++) 
+* codage "individuel"
+* etat d'avancement => voir [#16](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/16)
+
+## Exercice 8 => **C++**
+### Suivi Projet  
+* Exercice 5 -> C++ (exercice 6 - C++) 
+* codage "individuel"
+* etat d'avancement => voir [#17](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/17)
+
+## Exercice 9 => **C++**
+### Suivi Projet  
+* Exercice 6 -> C++ (exercice 3 - C++) 
+* codage "individuel"
+* etat d'avancement => voir [#18](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/18)
 
 ## Exercice 3 => **C#**
 ### Suivi Projet  
