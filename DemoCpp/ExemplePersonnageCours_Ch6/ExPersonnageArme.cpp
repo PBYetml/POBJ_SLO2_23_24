@@ -8,12 +8,12 @@ using namespace std;
 #include "Epee.h"
 #include "Hache.h"
 #include "Couteau.h"
-
+                                 
 
 int main(void)
 {
 	char Rep;
-	string test;
+	string test;                                 
 
 	// déclaration des personnage
 	Personnage Bob, Alain;

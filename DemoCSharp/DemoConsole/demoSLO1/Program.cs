@@ -41,6 +41,8 @@ namespace demoSLO1
 
             // objet 
             String valSs;
+            personnage etudiantSLo1 = new personnage(50);
+            personnage etudiantSLo2 = new personnage(100);
 
             valC = 'A';
             // valC = 100; -> exemple qui ne fonctionne pas 
@@ -55,6 +57,10 @@ namespace demoSLO1
             valSs = Console.ReadLine(); 
 
             valD = Console.Read();
+
+            //-- utilisation de l'objet personnage --//
+            etudiantSLo2.choixArme = new couteau("couteau suisse", 5);
+            etudiantSLo1.Attaquer(etudiantSLo2); 
 
 
         }
