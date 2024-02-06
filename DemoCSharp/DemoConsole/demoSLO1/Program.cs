@@ -8,60 +8,81 @@ namespace demoSLO1
 {
     class Program
     {
-
-        //-- attributs 
-
+        //-- attributs
+        private byte bouteillePotion; 
 
         //-- méthode 
 
         //-- "fonction"  
         static void Main(string[] args)
         {
-            // type primitif 
-            //-- entier --
-            bool valB;          // ATTTENTION -> uniquement notion true ou false !!!
-                                // taille -> normalement un octet 
-            byte valB1;         // valeur non signé 
-                                // taille -> 1 octet 
-            sbyte valB2;        // valeur signée
-            char valC;          // ATTENTION -> uniquement pour de caractère 
-                                // taille -> 2 octets 
-            short valS;         // ATTENTION -> uniquement pour de nombre entier 2^16 
-                                // taille -> 2 octets
-            ushort vakS2;       // type non signé 
-            int valD;           // taille -> 4 octets
-            uint valD1;         // type non signé 
-            long valL;          // taille -> 8 octets 
-            ulong valL2;        // type non signé 
+            //-- type primitif --//
+            //-- entier --//
+            bool valB = true;       // ATTTENTION -> uniquement notion true ou false !!!
+                                    // taille -> normalement un octet 
+            byte valB1 = 10;        // valeur non signé 
+            sbyte valB2 = -10;      // valeur signée
+                                    // taille -> 1 octet 
 
-            // réel 
-            float valF;         // taille -> 4 octets         
-            double valDo;       // taille -> 8 octets 
-            decimal valDe;      // taille -> 16 octets 
+            char valC = 'a';        // ATTENTION -> uniquement pour de caractère 
+            valC = '\u0061';        // taille -> 2 octets 
+            valC = (char)61; 
 
-            // objet 
-            String valSs;
-            personnage etudiantSLo1 = new personnage(50);
+            short valS = -1000;     // ATTENTION -> uniquement pour de nombre entier (2^16) 
+            ushort valS2 = 1000;    // type non signé 
+                                    // taille -> 2 octets
+
+
+            int valD = -100000;     // type signé       
+            uint valD1 = 100000;    // type non signé 
+                                    // taille -> 4 octets (2^32) 
+
+            long valL = -100000L;       // Type signé 
+            ulong valL2 = 1000000L;    // type non signé 
+                                        // taille -> 8 octets (2^64) 
+            //-- réel --// 
+            float valF = 3.14F;         // WARNING -> f ou F après la cst numérique
+                                        // taille -> 4 octets         
+            double valDo = 3.14;        // taille -> 8 octets 
+            decimal valDe = 3.14m;      // WARNING -> m après la cst numérique
+                                        // taille -> 16 octets 
+
+            //-- énumération --// 
+            e_typeArme typeArme;                        // déclaration sans instanciation 
+            e_typeArme typeA = e_typeArme.aBlanche;     // déclaration avec instanciation  
+
+            //-- objet --// 
+            String valSs;           // pour une chaine de caractère      
+
+            personnage etudiant;            // objet déclarer sans instanciation; 
+            etudiant = new personnage();    // instanciation avec constructueur par défaut
+
+            personnage etudiantSLo1 = new personnage(50);   // déclaration & instanciation  
             personnage etudiantSLo2 = new personnage(100);
 
-            valC = 'A';
-            // valC = 100; -> exemple qui ne fonctionne pas 
-            // valS = valC; -> exemple qui ne fonctionne pas 
-
-            valB = true;    // false; 
+            //-- Quelques instructions de base --// 
+            //-> WARNING : cast implicte ne fonctionne pas partout 
+            //-> exmple type short = type char  => NE FONCTIONNE PAS 
+            // valS = valC; ? instruction possible ? 
+            valS = (short)valC; 
 
             //-- afficher un message user --// 
             Console.WriteLine("Hello SLO2");
 
             //-- récuperation chaine de caratère 
-            valSs = Console.ReadLine(); 
-
-            valD = Console.Read();
+            valSs = Console.ReadLine(); //-- lecture d'une chaine de caractère 
+            valD = Console.Read();      //-- lecture d'un caractère 
 
             //-- utilisation de l'objet personnage --//
+            etudiant.InfoPersonnage();
+            etudiantSLo1.InfoPersonnage();
+            etudiantSLo2.InfoPersonnage(); 
+            
             etudiantSLo2.choixArme = new couteau("couteau suisse", 5);
-            etudiantSLo1.Attaquer(etudiantSLo2); 
+            etudiantSLo1.Attaquer(etudiantSLo2);
 
+            //etudiantSLo2.choisirArme(ref exemple);
+            //etudiantSLo2.choisirArme2(out exemple2);
 
         }
     }
