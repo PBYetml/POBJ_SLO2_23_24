@@ -63,22 +63,22 @@
 | Exercice \ Initial Etudiant | **[JAR](https://github.com/JeremyETMLES)** | **[DBS](https://github.com/damienbignens)** | **[ADC](https://github.com/antoniodocarmoafonso)** | **[CFO](https://github.com/CyrilFeliciano)** | **[DFA](https://github.com/Diogo-FerreiraETML)** | **[LGA](https://github.com/LuisGarciaAre)** | **[MPT](https://github.com/Melissaperret)** | **[SPN](https://github.com/Toxik24)** | 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | UML | | | | | | | | | 
-| Ex1 | Done / Uncontrolled | NOK | NOK | NOK | NOK | Done / Merged Solus on PBY | Done / Uncontrolled | Done / Uncontrolled |
+| [Ex1](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex1_UML) | Done / Uncontrolled | NOK | NOK | Done / Uncontrolled | NOK | Done / Merged Solus on PBY | Done / Uncontrolled | Done / Uncontrolled |
 | C++ | | | | | | | |
-| Ex2 (1) | Done / Uncontrolled | Done / Uncontrolled | NOK | NOK | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | 
-| Ex5 (2) | NOK | NOK | NOK | NOK | NOK | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | 
-| Ex6 (3) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex7 (4) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex8 (5) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex9 (6) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex2](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex2_ConversionC_POO) | Done / Uncontrolled | Done / Uncontrolled | NOK | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | 
+| [Ex3](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex3_Fonctions_POO) | Done / Uncontrolled | NOK | NOK | NOK | NOK | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | 
+| [Ex4](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex4_ClassFigGeo_POO  | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex5]() | Done / Uncontrolled | NOK | NOK | NOK | NOK | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | 
+| [Ex6]() | Done / Uncontrolled | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex7]() | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex7 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex8 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex9 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex10 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | JAVA | | | | | | | |
-| Ex4 (1) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | Done / Uncontrolled |
-| Ex2 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex3 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex2](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex2_ConversionC_POO) | NOK | NOK | NOK | Done / Uncontrolled | NOK | NOK | NOK | Done / Uncontrolled |
+| [Ex3](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex3_Fonctions_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex4](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex4_ClassFigGeo_POO | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex4 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex5 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex6 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
@@ -87,81 +87,92 @@
 | Ex9 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex10 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | C# | | | | | | | |
-| Ex3 (1) | NOK | NOK | NOK | NOK | NOK | NOK | Done / Uncontrolled | Done / Uncontrolled | 
-| Ex2 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex3 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex4 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex5 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex6 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
-| Ex7 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex8 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex9 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex2](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex2_ConversionC_POO) | NOK | NOK | NOK | Done / Uncontrolled | NOK | NOK | Done / Uncontrolled | Done / Uncontrolled | 
+| [Ex3](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex3_Fonctions_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | Done / Uncontrolled | 
+| [Ex4](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex4_ClassFigGeo_POO | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [5] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [5] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [5] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [5] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [6] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [7] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| [8] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [9] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [10] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex10 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 
 ## Exercice 1 => **UML**
 ### Suivi Projet 
-* Exercice 1 - UML (exercice 1 - UML)  
+* donnee : exercice 1 - UML  
 * codage "individuel" 
 * voir chapitre théorique : UML -> Ch1, Ch2, Ch3
 * etat d'avancement => voir [#2](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/2)
 
 ## Exercice 2 => **C++**
 ### Suivi Projet  
-* Exercice 1 - C-> C++ (exercice 1 - C++) 
+* donnee : exercice 1 - C++
 * codage "individuel"
-* **Exercice optionnel**: 
-
-réalisation d'un programme en C++ permettant de déterminer la taille de chaque type primitif  
 * etat d'avancement => voir [#8](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/8)
 
-## Exercice 5 => **C++**
+## Exercice 2 => **C#**
 ### Suivi Projet  
-* Exercice 2 -> C++ (exercice 2 - C++) 
+* donnee : exercice 1 - C++
+* codage "individuel"	 
+* etat d'avancement => voir [#10](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/10)
+
+## Exercice 2 => **JAVA**
+### Suivi Projet  
+* donnee : exercice 1 - C++ 
+* codage "individuel"
+=> etat d'avancement => voir [#11](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/11)
+
+## Exercice 3 => **C++**
+### Suivi Projet  
+* donnee : exercice 2 - C++
 * codage "individuel"
 * etat d'avancement => voir [#12](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/12)
 
-## Exercice 6 => **C++**
+## Exercice 3 => **C#**
 ### Suivi Projet  
-* Exercice 3 -> C++ (exercice 4 - C++) 
+* donnee : exercice 2 - C++
+* codage "individuel" 
+* etat d'avancement => voir [#19](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/19)
+
+## Exercice 4 => **C++**
+### Suivi Projet  
+* donnee : exercice 4 - C++
 * codage "individuel"
 * etat d'avancement => voir [#15](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/15)
 
-## Exercice 7 => **C++**
+## Exercice 5 => **C++**
 ### Suivi Projet  
-* Exercice 4 -> C++ (exercice 5 - C++) 
+* donnee : exercice 5 - C++) 
 * codage "individuel"
 * etat d'avancement => voir [#16](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/16)
 
-## Exercice 8 => **C++**
+## Exercice 6 => **C++**
 ### Suivi Projet  
 * Exercice 5 -> C++ (exercice 6 - C++) 
 * codage "individuel"
 * etat d'avancement => voir [#17](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/17)
 
-## Exercice 9 => **C++**
+## Exercice 7 => **C++**
 ### Suivi Projet  
 * Exercice 6 -> C++ (exercice 3 - C++) 
 * codage "individuel"
 * etat d'avancement => voir [#18](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/18)
 
-## Exercice 3 => **C#**
+
+## Exercice 10 => **C#**
 ### Suivi Projet  
-* Exercice 1 - C-> C# (exercice 1 - C++) 
-* codage "individuel"
-* **Exercice optionnel**: 
-
-réalisation d'un programme en C# (mode console) permettant de déterminer la taille de chaque type primitif  
-
-=> etat d'avancement => voir [#10](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/10)
+* Exercice 2 - C++ -> C# (exercice 4 - C++) 
+* codage "individuel" 
+* etat d'avancement => voir [#19](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/19)
 
 ## Exercice 4 => **JAVA**
 ### Suivi Projet  
 * Exercice 1 - C-> Java (exercice 1 - C++) 
 * codage "individuel"
-* **Exercice optionnel**: 
-
-réalisation d'un programme en JAVA (mode console) permettant de déterminer la taille de chaque type primitif  
-
 => etat d'avancement => voir [#11](https://github.com/PBYetml/POBJ_SLO2_23_24/issues/11)
 
 
