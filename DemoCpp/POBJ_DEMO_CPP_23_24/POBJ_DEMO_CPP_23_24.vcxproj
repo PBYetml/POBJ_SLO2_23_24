@@ -141,9 +141,11 @@
   <ItemGroup>
     <ClCompile Include="demoSLO.cpp" />
     <ClCompile Include="MesMethodes.cpp" />
+    <ClCompile Include="user.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ClassDemo.h" />
+    <ClInclude Include="user.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

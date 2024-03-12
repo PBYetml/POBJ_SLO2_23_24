@@ -16,6 +16,7 @@
 
 //-- librarire personnelle --// 
 #include "Classdemo.h"
+#include "user.h"
 	
 
 //-- programme principale --//
@@ -31,11 +32,48 @@ void main()
 	long valE;			//-> 4 octet 
 
 	//-- reels --//
-	float valC;		 //-> 4 octet 
-	double valB;	 //-> 8 octet 
+	float valC;			//-> 4 octet 
+	double valB;		//-> 8 octet 
 
-	//-- class --// 
+	//-- objet--// 
 	std::string chaine, chaine2; 
+
+	//--- statique 
+	user objetUser = user::user(100, 0); 
+	user objet2User = user::user(100, -100); 
+
+	valC = objetUser.GetNumberValue(); 
+
+	while (!objetUser.ValiderValUser(valC)) 
+	{
+		valC = objetUser.GetNumberValue();
+	}
+
+	
+	/*while (!objetUser.ValiderValUser(objetUser.GetNumberValue()))
+	{
+	}*/
+	
+
+
+
+
+	//user::demoStatic = 10; 
+	// objetUser.FctDemoStatique(); 
+
+	
+
+	
+
+
+
+	// REMARQUE : static en C : garder la valeur d'une variable dans une fct 
+	//            static en C++ : pas besoin d'objet pour utiliser des méthodes ou attributs static 
+
+	//--- dynamique
+
+
+
 
 	//-- msg user --// 
 	std::cout << "HELLO SLO !! \n" << std::endl; 

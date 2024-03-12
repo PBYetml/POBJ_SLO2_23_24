@@ -67,7 +67,7 @@
 | C++ | | | | | | | |
 | [Ex2](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex2_ConversionC_POO) | Done / Uncontrolled | Done / Uncontrolled | NOK | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | 
 | [Ex3](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex3_Fonctions_POO) | Done / Uncontrolled | NOK | NOK | NOK | NOK | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | 
-| [Ex4](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex4_ClassFigGeo_POO  | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex4](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex4_ClassFigGeo_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | [Ex5]() | Done / Uncontrolled | NOK | NOK | NOK | NOK | Done / Uncontrolled | Done / Uncontrolled | Done / Uncontrolled | 
 | [Ex6]() | Done / Uncontrolled | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | [Ex7]() | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
@@ -78,7 +78,7 @@
 | JAVA | | | | | | | |
 | [Ex2](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex2_ConversionC_POO) | NOK | NOK | NOK | Done / Uncontrolled | NOK | NOK | NOK | Done / Uncontrolled |
 | [Ex3](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex3_Fonctions_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex4](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex4_ClassFigGeo_POO | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex4](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex4_ClassFigGeo_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex4 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex5 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex6 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
@@ -89,7 +89,7 @@
 | C# | | | | | | | |
 | [Ex2](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex2_ConversionC_POO) | NOK | NOK | NOK | Done / Uncontrolled | NOK | NOK | Done / Uncontrolled | Done / Uncontrolled | 
 | [Ex3](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex3_Fonctions_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | Done / Uncontrolled | 
-| [Ex4](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex4_ClassFigGeo_POO | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex4](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex4_ClassFigGeo_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | [5] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | [5] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | [5] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
