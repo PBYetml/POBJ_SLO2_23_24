@@ -86,7 +86,7 @@ prenez celui-qui vous convient
 | [Ex8] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
 | [Ex9] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | [Ex10] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| JAVA | | | | | | | | |
+| JAVA | | | | | | | | | |
 | [Ex2](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex2_ConversionC_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
 | [Ex3](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex3_Fonctions_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | [Ex4](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex4_ClassFigGeo_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
@@ -97,7 +97,7 @@ prenez celui-qui vous convient
 | Ex8 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex9 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex10 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| C# | | | | | | | | |
+| C# | | | | | | | | | |
 | [Ex2](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex2_ConversionC_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
 | [Ex3](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex3_Fonctions_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
 | [Ex4](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex4_ClassFigGeo_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
