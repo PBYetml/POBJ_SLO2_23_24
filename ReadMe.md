@@ -71,46 +71,46 @@ prenez celui-qui vous convient
 ## Suivi des exercices 
 ---
 
-| Exercices \ Initial Etudiant | **[NBN](https://github.com/NicolasBessson)** | **[MBR](https://github.com/MathieuBucher)** | **[TCT](https://github.com/Tass1l0)** | **[ACL](https://github.com/Sweedy3960)** | **[EDO](https://github.com/etideoliveira)** | **[NEG](https://github.com/Larssno)** | **[VCO](https://github.com/kediven)** | **[MSI](https://github.com/MatteoStefanelli)** | 
+| Exercices \ Initial Etudiant | **[NBN](https://github.com/NicolasBessson)** | **[MBR](https://github.com/MathieuBucher)** | **[TCT](https://github.com/Tass1l0)** | **[ACL](https://github.com/Sweedy3960)** | **[EDO](https://github.com/etideoliveira)** | **[NEG](https://github.com/Larssno)** | **[VCO](https://github.com/kediven)** | **[LMS](https://github.com/LeoMendesEsEtml)** | **[MSI](https://github.com/MatteoStefanelli)** | 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| UML | | | | | | | | | 
-| [Ex1](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex1_UML) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
-| C++ | | | | | | | |
-| [Ex2](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex2_ConversionC_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
-| [Ex3](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex3_Fonctions_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
-| [Ex4](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex4_ClassFigGeo_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex5]() | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
-| [Ex6]() | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex7]() | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex7]() | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex8] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex9] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex10] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| JAVA | | | | | | | |
-| [Ex2](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex2_ConversionC_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
-| [Ex3](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex3_Fonctions_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex4](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex4_ClassFigGeo_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex4 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex5 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex6 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex7 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex8 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex9 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex10 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| C# | | | | | | | |
-| [Ex2](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex2_ConversionC_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
-| [Ex3](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex3_Fonctions_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
-| [Ex4](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex4_ClassFigGeo_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
-| [5] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [5] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [5] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [5] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [6] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [7] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
-| [8] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [9] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [10] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex10 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| UML | | | | | | | | | | 
+| [Ex1](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex1_UML) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| C++ | | | | | | | | | |
+| [Ex2](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex2_ConversionC_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |  NOK |
+| [Ex3](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex3_Fonctions_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |  NOK |
+| [Ex4](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex4_ClassFigGeo_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |  NOK |
+| [Ex5]() | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| [Ex6]() | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| [Ex7]() | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| [Ex7]() | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| [Ex8] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| [Ex9] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex10] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| JAVA | | | | | | | | |
+| [Ex2](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex2_ConversionC_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| [Ex3](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex3_Fonctions_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex4](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex4_ClassFigGeo_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex4 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex5 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex6 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex7 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex8 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex9 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex10 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| C# | | | | | | | | |
+| [Ex2](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex2_ConversionC_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| [Ex3](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex3_Fonctions_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| [Ex4](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex4_ClassFigGeo_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| [5] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [5] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [5] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [5] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [6] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [7] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| [8] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| [9] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [10] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex10 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 
 ## Exercice 1 => **UML**
 ### Suivi Projet 
